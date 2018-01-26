@@ -2,3 +2,12 @@ body {
   text-align: center;
   font-family: Helvetica;
 }
+
+.nav {
+  list-style: none;
+  padding-left: 0
+}
+
+.footer {
+  text-align: left;
+}
